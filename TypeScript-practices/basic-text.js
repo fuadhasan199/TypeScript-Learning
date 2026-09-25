@@ -1,6 +1,6 @@
 "use strict";
-// 1. String
-let userName = "Fuad Hasan";
+Object.defineProperty(exports, "__esModule", { value: true });
+let name = "Fuad Hasan";
 let age = 22;
 let isStudent = true;
 let hobbies = ["Football", "Coding", "Movies"];
@@ -26,7 +26,7 @@ let userId = 101;
 userId = "USER-101";
 let country = "Bangladesh";
 let score = 95;
-console.log(userName);
+console.log(name);
 console.log(age);
 console.log(isStudent);
 console.log(hobbies);
